@@ -6,3 +6,15 @@ This sample database includes tables representing various business entities such
 
 # Tools & Library Used
 <img src="./images/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
+
+# Query Task
+
+1.Find the total number of customers.
+
+<img src="./IMAGES/total_customer.png" alt="total_customer.png" width="400"/> &nbsp;
+
+2.Retrieve the customer details for those whose credit limit is above $50,000.
+
+<img src="./IMAGES/limit_50000.png" alt="limit_50000.png" width="400"/> &nbsp;
+
+3.
