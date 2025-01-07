@@ -41,31 +41,46 @@ This sample database includes tables representing various business entities such
 
 <img src="./images/top_5.png" alt="top_5.png" width="300"/> &nbsp;
 
-9. 
+9. Calculate the total price for each order (quantity times price each).
 
-<img src="./images/.png" alt=".png" width="300"/> &nbsp;
+<img src="./images/total_price_for_each_order.png" alt="total_price_for_each_order.png" width="300"/> &nbsp;
 
-10. 
+10. List all orders placed by a specific customer, say with customerNumber 103.
 
-<img src="./images/.png" alt=".png" width="300"/> &nbsp;
+<img src="./images/CN_103.png" alt="CN_103.png" width="300"/> &nbsp;
 
-11. 
+11. Find the number of orders placed in each status category.
 
-<img src="./images/.png" alt=".png" width="300"/> &nbsp;
+<img src="./images/Status.png" alt="Status.png" width="300"/> &nbsp;
 
-12. 
+12. Retrieve the payment details of customers who have made payments above $50,000.
 
-<img src="./images/.png" alt=".png" width="300"/> &nbsp;
+<img src="./images/payments_50000.png" alt="payments_50000.png" width="300"/> &nbsp;
 
-13. 
+13. Calculate the total payments made by each customer.
 
-<img src="./images/.png" alt=".png" width="300"/> &nbsp;
+<img src="./images/total_payments.png" alt="total_payments.png" width="300"/> &nbsp;
 
-14. 
+14. Count the number of products in each product line.
 
+<img src="./images/total_products.png" alt="total_products.png" width="300"/> &nbsp;
 
+15. Find the top 5 most expensive products.
 
+<img src="./images/top_5_product.png" alt="top_5_product.png" width="300"/> &nbsp;
 
+16. List all products with a buy price between $50 and $100.
 
+<img src="./images/50_100.png" alt="50_100.png" width="300"/> &nbsp;
 
+17. List all customers and their corresponding orders, including customers who havent placed any orders.
 
+<img src="./images/cn_on.png" alt="cn_on.png" width="300"/> &nbsp;
+
+18. List all employees and their assigned customers, including employees who have no assigned customers.
+
+<img src="./images/assign.png" alt="assign.png" width="300"/> &nbsp;
+
+19. Retrieve all order details and their corresponding products, including order details for products that are no longer in the products table.
+
+<img src="./images/product_order.png" alt="product_order.png" width="300"/> &nbsp;
