@@ -9,7 +9,7 @@ This sample database includes tables representing various business entities such
 
 # Project Result
 
-[Click here to get full code](https://github.com/MaithiliGajbhiye/Maven_Movies_Rental_Business_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+[Click here to get full code](https://github.com/MaithiliGajbhiye/Vehicle_Sales/blob/main/Classicmodels.sql)
 
 # Query Task
 
