@@ -7,6 +7,10 @@ This sample database includes tables representing various business entities such
 # Tools & Library Used
 <img src="./images/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
 
+# Project Result
+
+[Click here to get full code](https://github.com/MaithiliGajbhiye/Maven_Movies_Rental_Business_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+
 # Query Task
 
 1. Find the total number of customers.
