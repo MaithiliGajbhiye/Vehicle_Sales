@@ -11,10 +11,10 @@ This sample database includes tables representing various business entities such
 
 1.Find the total number of customers.
 
-<img src="./images/total_customer.png" alt="total_customer.png" width="400"/> &nbsp;
+<img src="./images/total_customer.png" alt="total_customer.png" width="200"/> &nbsp;
 
 2.Retrieve the customer details for those whose credit limit is above $50,000.
 
-<img src="./images/limit_50000.png" alt="limit_50000.png" width="400"/> &nbsp;
+<img src="./images/limit_50000.png" alt="limit_50000.png" width="200"/> &nbsp;
 
 3.
