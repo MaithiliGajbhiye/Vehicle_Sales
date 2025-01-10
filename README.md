@@ -4,6 +4,23 @@ The classicmodels database is a sample database designed to illustrate how a rel
 
 This sample database includes tables representing various business entities such as customers, employees, products, orders, and payments. The data and relationships between these tables are structured to showcase common scenarios in business operations, making it an excellent resource for both beginners and experienced users looking to improve their SQL skills or test database applications.
 
+# project Objective
+1.Learning SQL Fundamentals:
+Practice basic SQL queries such as SELECT, INSERT, UPDATE, and DELETE.
+Understand the structure of relational databases and the importance of data integrity.
+
+2.Understanding Relationships:
+Explore how tables in a relational database are connected through primary and foreign keys.
+Learn to join tables to retrieve related data from multiple tables.
+
+3.Demonstrating Data Management:
+Simulate real-world scenarios such as managing customer orders, tracking product inventory, and handling payments.
+Understand the role of each entity in a typical business database model.
+
+4.Performance Optimization:
+Practice writing efficient SQL queries to retrieve data quickly and accurately.
+Learn about indexing, data normalization, and other optimization techniques.
+
 # Tools & Library Used
 <img src="./images/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
 
