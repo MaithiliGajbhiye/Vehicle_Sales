@@ -21,14 +21,14 @@ Understand the role of each entity in a typical business database model.
 Practice writing efficient SQL queries to retrieve data quickly and accurately.
 Learn about indexing, data normalization, and other optimization techniques.
 
-# Tools & Library Used
+## Tools & Library Used
 <img src="./images/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
 
-# Project Result
+## Project Result
 
 [Click here to get full code](https://github.com/MaithiliGajbhiye/Vehicle_Sales/blob/main/Classicmodels.sql)
 
-# Query Task
+## Query Task
 
 1. Find the total number of customers.
 
